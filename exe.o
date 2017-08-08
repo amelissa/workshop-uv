@@ -4,3 +4,5 @@ mv *.sh tmp
 cd tmp
 chmod +x *.sh
 ls -l
+echo "hola mundo"
+
